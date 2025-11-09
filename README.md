@@ -5,18 +5,20 @@ This repository contains an Exploratory Data Analysis (EDA) on Spotify tracks da
 
 ## Objectives
 
--Understand the dataset: Data cleaning, preprocessing, and exploratory statistics.
+- Understand the dataset: Data cleaning, preprocessing, and exploratory statistics.
 
--Visualize features: Popularity, energy, danceability, tempo, loudness, etc.
+- Visualize features: Popularity, energy, danceability, tempo, loudness, etc.
 
--Analyze trends: Release year impacts, genre popularity, correlation between features.
+- Analyze trends: Release year impacts, genre popularity, correlation between features.
 
--Identify insights: What makes a track popular? Are there genre-based differences?
+- Identify insights: What makes a track popular? Are there genre-based differences?
 
--Share findings: Present key findings through plots and markdown summaries.
+- Share findings: Present key findings through plots and markdown summaries.
 
 ## Contents:
 
 - Spotify Tracks Exploratory Data Analysis notebook
 - Spotify Tracks Analysis PPT
 - data - data_description.csv, spotify_tracks.csv
+
+## Author - Madhurima Das
