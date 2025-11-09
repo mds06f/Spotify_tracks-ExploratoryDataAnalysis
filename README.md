@@ -14,3 +14,9 @@ This repository contains an Exploratory Data Analysis (EDA) on Spotify tracks da
 -Identify insights: What makes a track popular? Are there genre-based differences?
 
 -Share findings: Present key findings through plots and markdown summaries.
+
+## Contents:
+
+- Spotify Tracks Exploratory Data Analysis notebook
+- Spotify Tracks Analysis PPT
+- data - data_description.csv, spotify_tracks.csv
