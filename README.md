@@ -1,4 +1,4 @@
-# Spotify_tracks-ExploratoryDataAnalysis
+# Spotify_tracks - ExploratoryDataAnalysis
 ## Project Overview
 
 This repository contains an Exploratory Data Analysis (EDA) on Spotify tracks data. The analysis aims to uncover trends, patterns, and insights from various features associated with Spotify tracks, including popularity, audio characteristics, genres, and release dates.
