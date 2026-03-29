@@ -19,6 +19,6 @@ This repository contains an Exploratory Data Analysis (EDA) on Spotify tracks da
 
 - Spotify Tracks Exploratory Data Analysis notebook
 - Spotify Tracks Analysis PPT
-- data - data_description.csv, spotify_tracks.csv
+- data: data_description.csv, spotify_tracks.csv
 
 ## Author - Madhurima Das
